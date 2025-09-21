@@ -1,0 +1,12 @@
+Html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+‹title>Милена, выходи за меня
+замуж! </title>
+</head>
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: lightblue;">
+<h1 style="font-size: 4rem; color:
+darkblue;">Милена, выходи за меня замуж! </h1>
+</body> </html>
